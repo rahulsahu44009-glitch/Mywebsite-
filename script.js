@@ -8,8 +8,7 @@ window.addEventListener("scroll", () => {
         header.style.background = "#111";
     } else {
         header.style.background = "black";
-    }
-});
+    }});
 // 🔐 अपनी OpenAI API Key यहाँ डालें
 const apiKey = "sk-855b8af8f4b2d5b1c8d8bb6be411b48c";
 
